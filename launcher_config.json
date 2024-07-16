@@ -1,6 +1,6 @@
 {
 	"clientVersion": "13.32.14520",
-	"launcherVersion": "1.0",
+	"launcherVersion": "1.1",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
@@ -14,6 +14,6 @@
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/JONAS0607/canary-launcher/releases/download/1.0.0/client-to-update.zip",
+	"newClientUrl" : "https://github.com/JONAS0607/canary-launcher/releases/download/1.0.1/client-to-update.zip",
 	"clientExecutable": "client.exe"
 }
