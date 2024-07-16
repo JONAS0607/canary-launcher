@@ -13,7 +13,7 @@
 			"name": "bin"
 		}
 	],
-	"clientFolder": "",
+	"clientFolder": "Tibia",
 	"newClientUrl" : "https://github.com/JONAS0607/canary-launcher/releases/download/1.0.0/client-to-update.zip",
 	"clientExecutable": "client.exe"
 }
