@@ -13,7 +13,7 @@
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Tibia/client-to-update",
+	"clientFolder": "novo",
 	"newClientUrl" : "",
 	"clientExecutable": "client.exe"
 }
